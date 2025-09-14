@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of  Vandvik",
+  "description": "A web-based interface simulating a conversation with Vandvik, a revolutionary AI-powered holographic assistant designed to interact, learn, and grow with users.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}

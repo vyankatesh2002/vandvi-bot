@@ -1,0 +1,6 @@
+
+// A short, subtle click sound for UI interactions.
+export const CLICK_SOUND_BASE64 = 'data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA';
+
+// A slightly more noticeable sound for form submissions or success states.
+export const SUBMIT_SOUND_BASE64 = 'data:audio/wav;base64,UklGRlIAAABXQVZFZm10IBAAAAABAAEARKwAAIhYAQACABAAAABkYXRhWAAAAAEAiAAAAHg/gD5/SIA+KESAPkdAgD+GPoA5fkeAPkc7gDc/QYA/sDtANz9GQD/GPYA2P0bAP8b/v/u/o0A/Rv6AOz+YwD/GPcA4f1jAP8c8gDe/WkA/RzwAN/9awD/HPIAy/1sAP8b7gDP/WwA/xvjAMn9cwD/GuwA0/12AP8b4gDS/XcA/xrgANj9ewD/GuIA3P1/AP8a4gDf/YAA/xrjAN/9gQD/GuUA4v2CAP8a5QDg/YMA/xrjAOL9hAD/Gt8A4/2FAP8a2wDj/YYA/xrbAOX9hwD/GtsA5f2JAP8a2QDm/YkA/xraAOb9jAD/GdoA5/2NAP8a1ADo/Y4A/xrVAOj9jwD/GtYA6f2RAP8a1gDp/ZIA/xrWAOn9kwD/GtUA6v2WAP8a0wDr/ZcA/xrTAOv9mgD/GtIA7P2bAP8a0ADt/ZwA/xrgAOz9ngD/Gt8A7f2fAP8a3ADw/aEA/xrdAPD9ogD/Gt0A8v2jAP8a3ADz/aQA/xrcAAT/pQD/GtoAAv+mAP8a1QD//acA/xrUAAT/qgD/GtQAAv+sAP8a0wD//a0A/xrTAP//rwD/GtIAAP/CAP8a0QAB/8MA/xrR//////8A';
